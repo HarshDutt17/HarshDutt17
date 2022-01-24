@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 Am Harsh Dutt, a **4🌟 Codechef Coder** pursuing my Bachelors in **CSE** from [**Punjab Engineering College**](https://pec.ac.in/).
+🎓 Am Harsh Dutt, a **4🌟 Codechef Coder** , **React Dev and Game Dev** pursuing my Bachelors in **CSE** from [**Punjab Engineering College**](https://pec.ac.in/).
 
 👨‍💻 I enjoy contributing to **Open Source Projects** , participating in **Coding Events** and am really enthusiastic about learning new technologies.
 
