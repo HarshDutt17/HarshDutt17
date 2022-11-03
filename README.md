@@ -1,8 +1,10 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
+[![@hx4sh's Holopin board](https://holopin.me/hx4sh)](https://holopin.io/@hx4sh)
+
 ## 🚀 About Me
 
-🎓 Am Harsh Dutt, a **4🌟 Codechef Coder** , **React Dev and Game Dev** pursuing my Bachelors in **CSE** from [**Punjab Engineering College**](https://pec.ac.in/).
+🎓 Am Harsh Dutt, a **React Dev ,Game Dev**  and **4🌟 Codechef Coder** , pursuing my Bachelors in **CSE** from [**Punjab Engineering College**](https://pec.ac.in/).
 
 👨‍💻 I enjoy contributing to **Open Source Projects** , participating in **Coding Events** and am really enthusiastic about learning new technologies.
 
